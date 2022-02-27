@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dispersed vnited: or, Twelve healing qvestions propounded to persons of ingenious principles and tempers. Tending to stop the mouth of frowardness, scandals, and reproaches cast upon those that submitted unto and acted under the several governments and governours (propter commune bonum) that have been exercised over this Commonwealth, since the interruption of this present Parliament on the 20th of April, 1653. By a friend to friends of the civill [sic] and religious interest of all good men.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81548</idno>
+            <idno type="STC">Wing D1674</idno>
+            <idno type="STC">Thomason E986_17*</idno>
+            <idno type="STC">ESTC R207793</idno>
+            <idno type="EEBO-CITATION">99866822</idno>
+            <idno type="PROQUEST">99866822</idno>
+            <idno type="VID">119108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119108)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E986[17*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dispersed vnited: or, Twelve healing qvestions propounded to persons of ingenious principles and tempers. Tending to stop the mouth of frowardness, scandals, and reproaches cast upon those that submitted unto and acted under the several governments and governours (propter commune bonum) that have been exercised over this Commonwealth, since the interruption of this present Parliament on the 20th of April, 1653. By a friend to friends of the civill [sic] and religious interest of all good men.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The phrase "propter commune bonum" is encased in square brackets.</note>
+                  <note>Annotation on Thomason copy: "June. 14.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119108:1" rendition="simple:additions"/>
+            <p>The Diſperſed Vnited: Or, <hi>Twelve Healing</hi> QVESTIONS PROPOUNDED To Perſons of ingenious Principles and Tempers.</p>
+            <p>TENDING To ſtop the mouth of frowardneſs, Scandals, and Reproaches caſt upon thoſe that ſubmitted unto, and acted under the ſeveral Governments and Governours <hi>[propter com<g ref="char:EOLhyphen"/>mune bonum]</hi> that have been exerciſed over this <hi>Commonwealth,</hi> ſince the Interruption of this preſent Parliament on the 20th of <hi>April,</hi> 1653.</p>
+            <p>By a Friend to Friends of the Civill and Religious Intereſt of all Good Men.</p>
+            <q xml:lang="lat">Si variâſse vocas crimen, variavimus omnes.</q>
+            <q>
+               <bibl>Gall. 5.15.</bibl>
+               <p>If ye bite and devour one another, take heed ye be not conſumed one of another.</p>
+            </q>
+            <p>Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119108:2"/>
+            <pb n="3" facs="tcp:119108:2"/>
+            <head>
+               <hi>The Diſperſed United.</hi> OR, Twelve Healing Queſtions, <hi>&amp;c.</hi>
+            </head>
+            <p n="1">I. WHether the truth and meaſure of mens good affections unto this preſent Parliament, be to be eſtimated by their ancient and conſtant adherence unto them; with their lives and for<g ref="char:EOLhyphen"/>tunes without the leaſt defection, from firſt to laſt during the whole time of their former ſitting, under all the hazards, Expences, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>har<g ref="char:EOLhyphen"/>ges of a long, dangerous, and doubtful War, having neither heart nor hand in their interruption, but were moſt paſſionately grieved and troubled thereat? or by their vain and fruitleſs declamations, diſho<g ref="char:EOLhyphen"/>nourable reflections, vile reproaches, and bitter invectives againſt him, or them, that by force and violence, did interrupt the ſaid preſent Parliament, aſſuming the Supream Authority into his, or their own hands?</p>
+            <p n="2">II. Whether many (if not moſt) of thoſe perſons that ſharpened their tongues like a Serpent, againſt the late Single Perſons (dignified with the Titles of <hi>Protector</hi>) were not the very ſelf-ſame perſons that did whet their tongues like ſwords, and ſhot out their arrows, even bitter words, againſt this very Parliament, before their ſaid interruption and either were perſonally active therein, or abetting the ſame; or ſignified their apprrobation thereof, by their great joy and rejoycing thereat? and wheth<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r it be not moſt probable, that (if their importune deſires, and impatient expectations, be not ſoon ſatisfied, though with publick dam<g ref="char:EOLhyphen"/>mage in the Judgment of the Parliament) they will gather up their old ſtones of ſcandalous reproaches, calumnies, and falſhoods, and caſt them againſt the ſame men of their quarrell?</p>
+            <p n="2">
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>II. Whether that Thing, called the <hi>Little Parliament,</hi> did not aſſume unto themſelves the higheſt dignity, power, and authority of this Na<g ref="char:EOLhyphen"/>tion? as much as the pre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent Parliament can do? and whether they <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad the leaſt ſhew of right thereunto, but the power of the ſword, to aſſert and ſecure them therein? and whether the ſaid late <hi>Protectours</hi> had not
+<pb n="4" facs="tcp:119108:3"/>the ſame? and whether many of thoſe very perſons who now ſeem to <hi>be eaten up with the zeal of this Houſe,</hi> were not the ſelf-ſame per<g ref="char:EOLhyphen"/>ſons that were then ſo zealous to pull down <hi>this Houſe,</hi> and to build up that other in the room thereof? and whether ſome of them were not chief Pillars in that building, and many others great Votaries for, and Benefactors unto the ſame? and whether it was not as lawfull to ſubmit unto, and to act under the late Protectors, as to ſubmit unto, and to act under the ſaid <hi>Little Parliament?</hi> how paſſionately par<g ref="char:EOLhyphen"/>tial are ſome men in this age, as if <hi>John an-Oake</hi> did deſerve an <hi>Euge boneſerve,</hi> for that which <hi>John a-Stiles</hi> muſt have an <hi>ito maledicte.</hi>
+            </p>
+            <p n="4">IV. Whether the quiet ſubmiſſion of the Old aſſertors of this preſent Parliament, and their peaceable ſubjection to the ſaid Little Parlia<g ref="char:EOLhyphen"/>ment, during their reign; and afterwards unto the ſaid <hi>Protectors,</hi> whileſt they were in power (there being no other viſible authority among the people) can rationally argue any defection in heart, good will and affections unto the preſent Parliament? The neceſſity of their ſubmiſſion might be their affliction, but not their ſin; but their ſubmiſ<g ref="char:EOLhyphen"/>ſion under that neceſſity could not poſſibly be their ſin.</p>
+            <p n="5">V. Whether the ſaid known well-affected to this preſent Parliament, acting under the ſaid Little Parliament or Protectours, in their ſeveral capacities of Juſtices for the Peace, Commiſſioners for the Militia, &amp;c. for the preſervation of the publick peace, and the intereſt of their own well-affected party, the puniſhment of Vice, the encouragement of vertue, &amp;c. without any ſubſcription or other teſtimony of their own<g ref="char:EOLhyphen"/>ing that Act of Violence in interrupting the Parliament, and aſſuming the power of Government unto themſelves, but leaving that to the decſion of the great Judge of all Men, Whether (I ſay) ſuch perſons ſo acting, may therefore be juſtly accuſed of defection, in their reſpects to the preſent Parliament; or in the leaſt to be diſreſpected for their ſo acting? whether it was not their duty ſo to act, and whether they ought to be ſorry for it, and to repent of it? And whether this preſent Parliament ought not to bleſs God and them for the preſervation both of them and their friends, and the <hi>Good Old Cauſe,</hi> viz. the Civill and Religious Rights and Liberties of the known well-affected party, ſo far as they could by their ſo acting?</p>
+            <p n="6">VI. Whether, If all the Gentlemen of the preſent Parliament, that did act under the ſeveral powers and forms of Government, ſet up ſince their interruption 20th of <hi>April,</hi> 53, either as Members of the ſaid
+<pb n="5" facs="tcp:119108:3"/>little Parlimaent or as Commiſſioners for the Peace or for Aſſeſments, made ſince that time, or as Parliament men, choſen by vertue of the Protector's Writs iſſued out to ſummon Parliaments, or as voting for others in that caſe, or in ſome other capacity, were excluded this Parl. there would be a ſufficient number left legally capable of the name of a Parliament? And if not, Whether Juſtice and equity, as well as goodneſs and charity do not provoke and invite, yea, obl ge them to indulge others as well as themſelves for ſo acting.</p>
+            <p n="7">VII. Whether, That by the Laws of true Religion, or right Reaſon, the people of this Nation are obliged, or ought to oblige themſelvs, ſo to own, aſſert, and adhere unto the preſent Government, in the way of a Commonwealth, as it is now eſtabliſhed, as (not onely) to have no hand in the alceration thereof, in any caſe, under what circumſtances ſo<g ref="char:EOLhyphen"/>ever; but alſo never to ſubmit unto; or act under any other Government whatſoever, which either by God's prouidence, or permiſſion, might be brought upon them?</p>
+            <p n="8">VIII. Whether thoſe Counties, Cities, Towns corporate, Magiſtrates, Mi<g ref="char:EOLhyphen"/>niſters, or others that made their reſpective addreſſes unto the late Pro<g ref="char:EOLhyphen"/>tector, owning him as the lawful Succeſſor to his late Father, in the Office of Protector, according to an Act of Parliament, ſuppoſed then to be authentick; deſiring him to protect thoſe that are good, to pu<g ref="char:EOLhyphen"/>niſh thoſe that are bad, to maintain the juſt Rights and priviledges of the people of God, and the whole Nation, engaging to aſſiſt him in ſo doing, with their lives &amp; fortunes, and imploring the aſſiſtance &amp; bleſ<g ref="char:EOLhyphen"/>ſing of God upon his endeavours herein, and furthermore being indu<g ref="char:EOLhyphen"/>ced hereunto by an honeſt and innocent policy, <hi>viz.</hi> The procurement of his favour &amp; aſſiſtance in their publick occaſions, as they may ſtand in need thereof; as alſo for the disheartning of ill affected perſons, wai<g ref="char:EOLhyphen"/>ting for commotions, tumults, and inſurrections, upon ſuch changes of the chief Governour; as alſo for the diſcouragement of the known e<g ref="char:EOLhyphen"/>nemy in forreign parts, in <hi>Flanders,</hi> and elſe where, full of expectations of riſings of the people at that time, <hi>&amp;c.</hi> Whether (I ſay) the ſaid per<g ref="char:EOLhyphen"/>ſons might not make their ſaid Addreſſes, for the ſaid honeſt and pub<g ref="char:EOLhyphen"/>lick ends, with an ingenious retention of their firſt principles of reall affection unto that cauſe wherein they engaged themſelves at firſt with the preſent Parliament? And whether, having no hand in their inter<g ref="char:EOLhyphen"/>ruption, nor approving thereof, their ſaid Addreſſes can rationally ar<g ref="char:EOLhyphen"/>gue againſt their moſt cordial rejoycing at the return of the preſent Par<g ref="char:EOLhyphen"/>liament unto the free exerciſe of their authority, and the finiſhing the
+<pb n="6" facs="tcp:119108:4"/>work of a happy Reformation that lies upon their hands? And whe<g ref="char:EOLhyphen"/>ther that the undue reflections, &amp; unchriſtian ſcoffs, caſt upon the ſaid perſons, for their ſaid Addreſſes, do not argue rather the ventoſity of their brains; and the vanity of their minds, than the ſo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>idity of their judgments and the becoming gravity of their Spirits and behaviour that uſe the the ſame?</p>
+            <p n="9">IX. Whether the preſent Parliament, indulging thoſe of the Army upon their acknowledgment of their miſpriſions miſtakes, and miſdoings in interrupting them on the 20th of <hi>April</hi> 1653. and in their ſetting up or at leaſt aſſiſting, aiding, defending, and ſecuring them that have ſet up other Governments and Governours ſince that time, have not much more reaſon to indulge thoſe that had no hand at all in their ſaid interruption, did never juſtify or own the ſame, were heartily afflicted at it, did onely ſubmit unto and act under the ſaid Governments and Governours ſince that time for publick peace ſake? And whether ſuch indulgence, countenance, and favour unto their old friends renued and continued, may not be a very good pledge unto the ſaid Army, that there is a true and real oblivion of their ſaid interrupting them? But <hi>&amp;c.</hi>
+            </p>
+            <p n="10">X. Whether that even the preſent Parliament, Army, with all the di<g ref="char:EOLhyphen"/>ſtributed, divided, &amp; ſubdivided parties, <hi>Peresbyterians, Independants, Anabaptiſts,</hi> and others, that at firſt made one ſingle party (united to<g ref="char:EOLhyphen"/>gether againſt the common enemy) have not had their miſtakes, miſ<g ref="char:EOLhyphen"/>carriages, weakneſſes, and infirmities? Whether they have not ſome<g ref="char:EOLhyphen"/>times been in the dark, and walked in untroden paths, and ſometimes ſtumbled and fallen therein? Yea, whether in ſome ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es or other they have not made ſome detection or other, little or much from that good cauſe wherein they were ingaged at firſt? and if ſo, whether it be not Chriſtian Policy, as well as true Piety, to bear one anothers burthens, to be tender-hea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted towards one another, to conſider of one anothers temptations and ſnares, and with the Spirit of love, meekneſs, &amp; com<g ref="char:EOLhyphen"/>paſſion, to endeavour to reduce one another to that primitive zeal and unity in the common cauſe againſt the common enemy, wherein they were all ingaged; to take heed of devouring one another, leſt they be d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>voured one of another, &amp; of the common enemy that would devour them all: That ſithence God is judge, who pulleth down one &amp; ſetteth up another, builds &amp; throws down kills &amp; makes alive, ſcatters in his diſpleaſure, &amp; gathers together ag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in in his favour ſithence he judgeth men for their ſins, and then in judgment remembers mercy, whether (theſe things conſidered) Piety and Policy, Religion &amp; Reaſon do not
+<pb n="7" facs="tcp:119108:4"/>invite them all to fear and tremble before God, not to ſnatch at advan<g ref="char:EOLhyphen"/>tages one againſt another, but to imitate their Heavenly Father, who (paſſing by the infirmities of his people) endeavours hy mercy, kindneſs and goodneſs, to gather them up unto himſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f, and to make them all one in him? If every of them that hath been faulty ſhould be <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oned to death, which of them could live? but if onely the innocent amongſt them ſhould caſt the firſt ſtone at the guilty, which of them could be hurt?</p>
+            <p n="11">XI. Whether that the appearance of this Parliament again at <hi>Weſtminſter</hi> in the 7th year after their ſeeming diſſolution, death and burial, be not Gods work and his ſtrange work? his Act and his ſtrange Act? beyond the wiſdome of the wiſe, and the underſtanding of the prudent, that <hi>Sa<g ref="char:EOLhyphen"/>rah</hi> ſhould give ſuck, and the barren bring forth; that <hi>Nebuchadnezzar</hi> driven from his Kingdom, turn'd a grazing for 7 years together, ſhould again be reſtored to his Dominion, Power &amp; Majeſty; that the rejected ſtones ſhoul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be made the chief corner ſtones, are not theſe things <hi>the Lords doing and marvellous in our eyes?</hi> And is not this a Viſion of fear, dread &amp; terrour unto the old adverſe party, like the coming of the Ark of God among the <hi>Philiſtines,</hi> cauſing them to ſay, Wo unto us for there hath not been ſuch a thing heretofore; wo unto us, who ſhall deliver vs ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their hands? theſe are they that ſmote the <hi>Egyptians</hi> with all the plagues in the Wilderneſs: do not their faces gather blackneſs, and their countenances look pale? do not their hands hang down, &amp; their joynts wax feeble; th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir knees knock together, and their hearts ſink like ſtones, dye and fall within them? Are not their hopes like the Spiders web and the giving up of the Ghoſt? Can any thing imagin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble be an anchor of hope unto them, to quiet their troubled minds in this day of their fear? except it be the diviſions of their adverſaries amongſt them<g ref="char:EOLhyphen"/>ſelves? were they united, who could hurt them? but if continually di<g ref="char:EOLhyphen"/>vided how can they ſtand? when one party ſhall divide into many, and ſpend their reſpective opportunities, powers and advantages, to ſuppreſſe and weaken one another, will not this (in time) prove ruinous unto them all? if theſe prove goads in the ſides, and thorns in the eyes one of another, in matters Civil or Religious; if the Praelatical Presbyterian, the Presbyterian Independent, the Independent Ana<g ref="char:EOLhyphen"/>baptiſt, or any others ſhall aſſume unto themſelves the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irit of infallability in matters diſputable, branding others differing from them, with the odious names of Schiſma<g ref="char:EOLhyphen"/>ticks, hereticks, &amp;c. and not onely throw the fire-balls and thunder-holts of excommu<g ref="char:EOLhyphen"/>nication againſt one another, but incenſe, and ſtir up the Civill Magiſtrate for their impriſonment, corporal puniſhment, baniſhment, or death, becauſe of theſe differen<g ref="char:EOLhyphen"/>ces, if upon advantages and opportunities ſome of the ſame party get up into th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Seat of Civil Government, and caſt down others, as cordial to the old well-affected party, and publick intereſt as themſelves, ſhall gore one another with the horns of their power and greatneſſe, will not this prove deſtructive at laſt unto them all?</p>
+            <p n="12">
+               <pb n="8" facs="tcp:119108:5"/> XII. Whether the great ends of Government (publick peace and liberty, the Civil and Religious Rights of the People) be not more to be regar<g ref="char:EOLhyphen"/>ded, then the forms thereof, whether by <hi>Kings, Protectors, Parliaments,</hi> or others? And did not all the Vows, Covenants, Engagements, Pro<g ref="char:EOLhyphen"/>te<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ations and Oaths, made unto <hi>Kings, Protectors, Parli<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ments,</hi> pretend un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o theſe ends, and not unto the Perſons, Powers and Places of any of theſe, but with reference hereunto? what are any or all thoſe unto the people, but for the ſake of their peace and liberty? when greatneſs of place, power, and authority make men forget themſelves, and the ends of their advancements, (which is no new thing under the Sun) when, becauſe they are above every one, therefore they judge them<g ref="char:EOLhyphen"/>ſelves above all, and unto the foreſaid ends they prove Phyſitians of no value; but when the people look for peace, no good comes; for a time of healing, and behold nothing but trouble; their yoaks are ſtill made heavy, rods, whips, and Scorpions are ſtill upon their backs, and that without remedy; will they not argue in thiſ caſe, (let it reſpect Kings, Protectors, Parliaments, or whomſoever elſe, all's one) as the <hi>Iſraelites</hi> againſt <hi>Rehoboam, What portion have we in David? or inheritance in the ſon of Jeſſe? To your Tents, O Iſrael, and let David ſee to his own houſe.</hi> And although it is ſad, and dangerous, that inſtead of Crowns and Scep<g ref="char:EOLhyphen"/>ters, the People ſhould be under the power of Swords and Piſtols; and inſtead of <hi>Kings</hi> and <hi>Princes, Servants</hi> ſhould bear rule; yet is Pro<g ref="char:EOLhyphen"/>tection by the ſword more deſirable than deſtruction by a Law, ſafety by a Servant, than ruine by Lords and Maſters: Can the Parliament be ſafe except (under God) by the protection of the Army? Can the Ar<g ref="char:EOLhyphen"/>my, regularly, legally, and honourably, ſecure themſelvs and friends, but by the authority of the Parliament? Hath not either need of the other for the good of both and their whole party? If henceforth this Parl. and Army be knit together like <hi>David</hi> and <hi>Jonathan,</hi> if each be friends to each others friends, &amp; adverſaries to each others adverſaries; if each be to other as their own ſoul, reſolving (as friends) to ſtick cloſer to each other then brothers, will not their adverſaries melt like ſnails be<g ref="char:EOLhyphen"/>fore them? their hearts fail them? the ſtout-hearted amongſt them be diſcouraged &amp; their men of might be weak as water? and all their late great boaſtings, and expectations pine away, and come to nothing in.</p>
+         </div>
+         <trailer>The End?</trailer>
+      </body>
+   </text>
+</TEI>
